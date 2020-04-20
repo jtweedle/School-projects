@@ -1,1 +1,1 @@
-This is a FFT analysis of some EMG data. The purpose of the FFT was to compute the sub-maximal fatigue index.
+This is a compilation of some of the projects I've completed in Excel
